@@ -1,5 +1,5 @@
 const assert = require('chai').assert;
-const app = require('../Calculadora');
+const app = require('../calculadora');
 
 // Results
 describe('App', function(){
